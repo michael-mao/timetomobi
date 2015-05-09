@@ -1,0 +1,17 @@
+footer {
+    margin: 80px 0 40px;
+}
+
+#mac {
+    /*width: 1050px;*/
+    width: 1170px;
+    height: 618px;
+    margin: auto;
+    background: url("/assets/macbook_pro_blank.jpg") no-repeat center center;
+}
+
+#game {
+    min-width: 100%;
+    min-height: 100%;
+    padding: 39px 169px 0;
+}
